@@ -3,6 +3,10 @@
     font-size: x-large;
 }
 
+a {
+    color: rgb(103, 255, 204);
+}
+
 .indexed-body {
     position: relative;
     overflow: auto;

@@ -1,2 +1,3 @@
-# StudiosSehajAvastha.github.io
-Studios SehajAvastha - Creating Games With Pure Sheer Will
+# Studios SehajAvastha - Privacy Policies
+## Studios SehajAvastha - Creating Games With Pure Sheer Will
+### Transparency & Trust

@@ -1,3 +1,6 @@
 title: Studios SehajAvastha
-theme: jekkyl-theme-minimal
 description: Studios SehajAvastha - Creating Games With Pure Sheer Will
+author: Studios SehajAvastha
+theme: minima
+url: "https://studiossehajavastha.github.io"
+baseurl: ""

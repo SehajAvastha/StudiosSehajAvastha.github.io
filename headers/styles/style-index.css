@@ -1,0 +1,17 @@
+* {
+    font-family: "aller-regular";
+}
+
+@font-face {
+    font-family: "aller-regular";
+    src: url('../../res/font/Aller_Std_Rg.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "aller-bold";
+    src: url("../../res/font/Aller_Std_Bd.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

@@ -1,0 +1,3 @@
+document.onload(() => {
+    console.log("Welcome To Studios SehajAvastha Privacy Policies\nps: (Don't Brainstorm In Inspect lil bro");
+});

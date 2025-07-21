@@ -1,5 +1,32 @@
 * {
     font-family: "aller-regular";
+    font-size: x-large;
+}
+
+.section-header u {
+    text-decoration: underline;
+    text-decoration-color: rgba(0, 255, 255, 0.25);
+}
+
+.section-header .line-updation {
+    text-decoration: underline;
+    text-decoration-color: rgba(80, 80, 80, 0.25);
+}
+
+.section-purposes {
+    color: rgba(80, 80, 80, 1);
+}
+
+.author-apps {
+    font-size: xx-large;
+    color: rgba(220, 20, 60, 0.75)
+}
+
+.author-apps li {
+    list-style-type: disc;
+}
+
+.app-section strong {
 }
 
 @font-face {

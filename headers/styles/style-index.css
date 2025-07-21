@@ -17,9 +17,16 @@
     color: rgba(80, 80, 80, 1);
 }
 
+.section-balladventure3d {
+    color: rgba(80, 80, 80, 1);
+}
+
 .author-apps {
-    font-size: xx-large;
     color: rgba(220, 20, 60, 0.75)
+}
+
+.author-apps span {
+    text-decoration: underline;
 }
 
 .author-apps li {
